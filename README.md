@@ -1,2 +1,2 @@
-# m1_bowling
-M1 project: Axel LAFFITE - Thibaut BETEND
+# The bowling project
+Made by : Axel LAFFITE & Thibaut BETEND
